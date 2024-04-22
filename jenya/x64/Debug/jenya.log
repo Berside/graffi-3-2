@@ -1,0 +1,13 @@
+﻿  jenya.cpp
+C:\Users\bersi\source\repos\jenya\jenya\jenya.cpp(11,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\bersi\source\repos\jenya\jenya\jenya.cpp(135,39): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\bersi\source\repos\jenya\jenya\jenya.cpp(138,43): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  jenya.vcxproj -> C:\Users\bersi\source\repos\jenya\x64\Debug\jenya.exe
